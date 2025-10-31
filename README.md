@@ -7,7 +7,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.y7.fingerpay?style=flat-square)](https://github.com/YOUR_USERNAME/FingerPay/releases)
 [![GitHub downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.y7.fingerpay/total?style=flat-square&color=blue)](https://github.com/YOUR_USERNAME/FingerPay/releases)
 [![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.y7.fingerpay?style=flat-square&color=yellow)](https://github.com/YOUR_USERNAME/FingerPay/stargazers)
-[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram)]([https://t.me/YOUR_TELEGRAM_GROUP](https://t.me/+VaK5mvWsLx03YTVl))
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram)]([https://t.me/+VaK5mvWsLx03YTVl](https://t.me/+VaK5mvWsLx03YTVl))
 
 </div>
 
